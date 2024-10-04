@@ -3,12 +3,6 @@
 ## Course Overview
 CMPUT 274 is a part of a two-sequence intensive introduction to Computing Science. In this course, students will learn key concepts of procedural programming, basic algorithm design, and analysis through practical problem-solving using Python. Development is conducted in a Linux operating system environment.
 
-### Course Details
-- **Units**: 3 units (fi 6) (EITHER, 0-6L-0)
-- **Faculty**: Faculty of Science
-- **Prerequisites**: Math 30 or 31
-- **Note**: This course is taught in a studio-style format, integrating lectures and labs into 3-hour sessions, twice a week. Enrollment is limited by facility capacity. Credit cannot be obtained for CMPUT 274 if credit for CMPUT 174, 175, or 201 has been previously earned, except with permission from the Department.
-
 ## Assignments
 This repository will include the following assignments:
 1. **Assignment 1: Introduction to Python Basics**  
