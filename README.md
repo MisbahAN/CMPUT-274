@@ -18,6 +18,3 @@ To run the assignments, ensure you have Python installed on your Linux environme
 
 ## Contributions
 Feel free to fork this repository and contribute by submitting issues or pull requests if you have suggestions or improvements.
-
-## License
-This repository is licensed under the MIT License. See the LICENSE file for more details.
