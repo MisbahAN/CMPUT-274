@@ -8,7 +8,9 @@ This repository will include the following assignments:
 1. **Assignment 1: Introduction to Python Basics**  
    In this assignment, students will be introduced to the fundamentals of Python programming. The focus will be on variables, data types, control structures, and basic input/output operations. Students will complete a series of exercises designed to solidify their understanding of Python syntax and programming logic.
 
-2. **Assignment 2** - [Title/Brief Description]
+2. **Assignment 2: Advanced Python Concepts and Data Structures**  
+   In this assignment, students delve deeper into Python by exploring more complex concepts such as recursion and data structures. The tasks include implementing a recursive function to generate permutations, simulating stack behavior using a queue, and solving coding challenges involving expression evaluation and Unix path simplification. These exercises are designed to enhance problem-solving skills and strengthen the understanding of Python's advanced features and algorithms.
+
 3. **Assignment 3** - [Title/Brief Description]
 4. **Assignment 4** - [Title/Brief Description]
 5. **Assignment 5** - [Title/Brief Description]
